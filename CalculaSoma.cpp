@@ -2,7 +2,7 @@
 	Name: 
 	Copyright: 
 	Author: Jose Ricardo
-	Date: 23/03/20 15:54
+	Date: 09/08/2018 12:20
 	Description: Programa que lê dois números inteiros digitados pelo usuário, e calcula a soma dos números digitados.
 */
 
